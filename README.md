@@ -1,4 +1,4 @@
-# PuzzleFS [![Build Status](https://github.com/project-machine/puzzlefs/workflows/ci/badge.svg?branch=master)](https://github.com/project-machine/puzzlefs/actions) [![Crates.io][crates-exe-badge]][crates-exe-url]
+# NewFS [![Build Status](https://github.com/project-machine/puzzlefs/workflows/ci/badge.svg?branch=master)](https://github.com/project-machine/puzzlefs/actions) [![Crates.io][crates-exe-badge]][crates-exe-url]
 
 [crates-exe-badge]: https://img.shields.io/crates/v/puzzlefs.svg
 [crates-exe-url]: https://crates.io/crates/puzzlefs
